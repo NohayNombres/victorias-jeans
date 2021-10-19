@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.title{
+  color: aqua;
+}
+
+.color{
+  color: blueviolet;
+}
+
+form > a {
+  margin-left: 1rem;
+}
+.pointer{
+  cursor: pointer;
+}

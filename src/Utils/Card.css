@@ -1,0 +1,9 @@
+.talla{
+    background-color: rgb(10, 33, 74);
+    width: 30px;
+    height: 25px;
+    margin-left: 0.8rem;
+    font-size: small;
+    font-style: italic;
+    color: aliceblue;
+}
