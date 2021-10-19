@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     <div className="page-container ">
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
 
     <div className="content-wrap">
 
