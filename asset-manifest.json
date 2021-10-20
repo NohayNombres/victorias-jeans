@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/victorias-jeans/static/css/main.d0214cb4.chunk.css",
+    "main.js": "/victorias-jeans/static/js/main.0260631a.chunk.js",
+    "main.js.map": "/victorias-jeans/static/js/main.0260631a.chunk.js.map",
+    "runtime-main.js": "/victorias-jeans/static/js/runtime-main.810270ea.js",
+    "runtime-main.js.map": "/victorias-jeans/static/js/runtime-main.810270ea.js.map",
+    "static/css/2.53150396.chunk.css": "/victorias-jeans/static/css/2.53150396.chunk.css",
+    "static/js/2.d8fba645.chunk.js": "/victorias-jeans/static/js/2.d8fba645.chunk.js",
+    "static/js/2.d8fba645.chunk.js.map": "/victorias-jeans/static/js/2.d8fba645.chunk.js.map",
+    "static/js/3.d008e35b.chunk.js": "/victorias-jeans/static/js/3.d008e35b.chunk.js",
+    "static/js/3.d008e35b.chunk.js.map": "/victorias-jeans/static/js/3.d008e35b.chunk.js.map",
+    "index.html": "/victorias-jeans/index.html",
+    "static/css/2.53150396.chunk.css.map": "/victorias-jeans/static/css/2.53150396.chunk.css.map",
+    "static/css/main.d0214cb4.chunk.css.map": "/victorias-jeans/static/css/main.d0214cb4.chunk.css.map",
+    "static/js/2.d8fba645.chunk.js.LICENSE.txt": "/victorias-jeans/static/js/2.d8fba645.chunk.js.LICENSE.txt",
+    "static/media/logo-dark.544ab34a.png": "/victorias-jeans/static/media/logo-dark.544ab34a.png",
+    "static/media/logoFacebook.5faf0312.svg": "/victorias-jeans/static/media/logoFacebook.5faf0312.svg",
+    "static/media/logoInsta.a082d3a4.svg": "/victorias-jeans/static/media/logoInsta.a082d3a4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.810270ea.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.d8fba645.chunk.js",
+    "static/css/main.d0214cb4.chunk.css",
+    "static/js/main.0260631a.chunk.js"
+  ]
+}
